@@ -3,7 +3,7 @@ title: Tong Blog
 SEOTitle: 童的博客 | tong Blog
 header-img: img/home-bg.jpg
 email: ahputqy@gmail.com
-description: "简简单单"
+description: "无边落木萧萧下，不尽长江滚滚来。"
 keyword: "博客"
 url: "https://tongqy.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "侧边栏文字"
+sidebar-about-description: "无边落木萧萧下，不尽长江滚滚来。"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
