@@ -1,6 +1,6 @@
 # Site settings
-title: Tong Blog
-SEOTitle: 童的博客 | tong Blog
+title: Boundless Blog
+SEOTitle: 无边的博客 | boundless Blog
 header-img: img/home-bg.jpg
 email: ahputqy@gmail.com
 description: "无边落木萧萧下，不尽长江滚滚来。"
@@ -13,10 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+# weibo_username:     huxpro
+zhihu_username:     t_boundless
+github_username:    TongQY
+#twitter_username:   huxpro
+jianshu_username:   353165fd3e1b
+
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +61,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: boundless
 
 # Netease settings
 netease_comment: false
@@ -68,7 +70,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: "5dc3952746f552194358b2d994c08590"
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
