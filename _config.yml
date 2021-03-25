@@ -16,8 +16,10 @@ RSS: false
 # weibo_username:     huxpro
 zhihu_username:     t_boundless
 github_username:    TongQY
-#twitter_username:   huxpro
 jianshu_username:   353165fd3e1b
+csdn_username:      tong
+#twitter_username:   huxpro
+
 
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -104,32 +106,32 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
+    # {
+    # #     title: "Su",
+    # #     href: "http://su.gallery/"
+    # # },{
+    #     title: "乱序（Midare）",
+    #     href: "http://mida.re/"
     # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
-    },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
-    },{
-        title: "Ebn Zhang",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    }
+    #     title: "Sherry Woo",
+    #     href: "https://sherrywoo.me/"
+    # },{
+    #     title: "Kun Qian",
+    #     href: "http://kunq.me"
+    # },{
+    #     title: "Ebn Zhang",
+    #     href: "http://ebnbin.com/"
+    # },{
+    #     title: "SmdCn",
+    #     href: "http://blog.smdcn.net"
+    # },{
+    #     title: "JiyinYiyong",
+    #     href: "http://tiye.me/"
+    # },{
+    #     title: "DHong Say",
+    #     href: "http://dhong.co"
+    # },{
+    #     title: "尹峰以为",
+    #     href: "http://ingf.github.io/"
+    # }
 ]
