@@ -14,10 +14,11 @@ future: true
 # SNS settings
 RSS: false
 # weibo_username:     huxpro
+jianshu_username:   353165fd3e1b
 zhihu_username:     t_boundless
 github_username:    TongQY
 jianshu_username:   353165fd3e1b
-csdn_username:      tong
+# csdn_username:      tong
 #twitter_username:   huxpro
 
 
