@@ -76,7 +76,7 @@ netease_comment: false
 ba_track_id: "5dc3952746f552194358b2d994c08590"
 
 # Google Analytics
-ga_track_id: 'UA-192911845-2'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-192911845-3'            # Format: UA-xxxxxx-xx
 ga_domain: http://71tong.club/
 
 
